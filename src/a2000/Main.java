@@ -7,5 +7,6 @@ public class Main {
 		Two.print();
 		System.out.println("one a2000");
 		Three.print();
+		Four.print();
 	}
 }
